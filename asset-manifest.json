@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.57b198e3.css",
-    "main.js": "/libraryManagement/static/js/main.f0c08fa9.js",
+    "main.css": "/libraryManagement/static/css/main.c80d765a.css",
+    "main.js": "/libraryManagement/static/js/main.175d2221.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/KnowledgeCacheLight.png": "/libraryManagement/static/media/KnowledgeCacheLight.f71ebd4c513c36e3aa78.png",
     "static/media/KnowledgeCacheDark.png": "/libraryManagement/static/media/KnowledgeCacheDark.8d9c74d28c0f31b837d9.png",
     "static/media/logout.png": "/libraryManagement/static/media/logout.a7cf3408bec8b53aa303.png",
     "index.html": "/libraryManagement/index.html",
-    "main.57b198e3.css.map": "/libraryManagement/static/css/main.57b198e3.css.map",
-    "main.f0c08fa9.js.map": "/libraryManagement/static/js/main.f0c08fa9.js.map",
+    "main.c80d765a.css.map": "/libraryManagement/static/css/main.c80d765a.css.map",
+    "main.175d2221.js.map": "/libraryManagement/static/js/main.175d2221.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57b198e3.css",
-    "static/js/main.f0c08fa9.js"
+    "static/css/main.c80d765a.css",
+    "static/js/main.175d2221.js"
   ]
 }
