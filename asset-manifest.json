@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.5c8c7bd1.css",
-    "main.js": "/libraryManagement/static/js/main.21d18726.js",
+    "main.css": "/libraryManagement/static/css/main.81052a00.css",
+    "main.js": "/libraryManagement/static/js/main.e79caad8.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/KnowledgeCacheLight.png": "/libraryManagement/static/media/KnowledgeCacheLight.f71ebd4c513c36e3aa78.png",
     "static/media/KnowledgeCacheDark.png": "/libraryManagement/static/media/KnowledgeCacheDark.8d9c74d28c0f31b837d9.png",
     "static/media/moon.png": "/libraryManagement/static/media/moon.d91f118702503b40d9a7.png",
     "static/media/logout.png": "/libraryManagement/static/media/logout.a7cf3408bec8b53aa303.png",
+    "static/media/addBook.png": "/libraryManagement/static/media/addBook.011ec3b780e15c20c3cc.png",
     "static/media/sun.png": "/libraryManagement/static/media/sun.09b1546a421326832a9c.png",
     "static/media/blankHeart.png": "/libraryManagement/static/media/blankHeart.c412cbaead4744166c20.png",
+    "static/media/close.png": "/libraryManagement/static/media/close.bce59ddf2b4b4eb6d77b.png",
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "index.html": "/libraryManagement/index.html",
-    "main.5c8c7bd1.css.map": "/libraryManagement/static/css/main.5c8c7bd1.css.map",
-    "main.21d18726.js.map": "/libraryManagement/static/js/main.21d18726.js.map",
+    "main.81052a00.css.map": "/libraryManagement/static/css/main.81052a00.css.map",
+    "main.e79caad8.js.map": "/libraryManagement/static/js/main.e79caad8.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c8c7bd1.css",
-    "static/js/main.21d18726.js"
+    "static/css/main.81052a00.css",
+    "static/js/main.e79caad8.js"
   ]
 }
