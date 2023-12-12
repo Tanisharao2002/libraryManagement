@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.18b1f584.css",
-    "main.js": "/libraryManagement/static/js/main.edd863f7.js",
+    "main.css": "/libraryManagement/static/css/main.5c1a54c9.css",
+    "main.js": "/libraryManagement/static/js/main.7fbb14f7.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/backGround.jpg": "/libraryManagement/static/media/backGround.c14ffbb7829db7b275f9.jpg",
     "static/media/knowledgeLibLight.png": "/libraryManagement/static/media/knowledgeLibLight.666e9ac05ad01c5e07b4.png",
@@ -15,12 +15,12 @@
     "static/media/close.png": "/libraryManagement/static/media/close.bce59ddf2b4b4eb6d77b.png",
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "index.html": "/libraryManagement/index.html",
-    "main.18b1f584.css.map": "/libraryManagement/static/css/main.18b1f584.css.map",
-    "main.edd863f7.js.map": "/libraryManagement/static/js/main.edd863f7.js.map",
+    "main.5c1a54c9.css.map": "/libraryManagement/static/css/main.5c1a54c9.css.map",
+    "main.7fbb14f7.js.map": "/libraryManagement/static/js/main.7fbb14f7.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18b1f584.css",
-    "static/js/main.edd863f7.js"
+    "static/css/main.5c1a54c9.css",
+    "static/js/main.7fbb14f7.js"
   ]
 }
