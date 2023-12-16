@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.84e7b5f1.css",
-    "main.js": "/libraryManagement/static/js/main.ae0e58d6.js",
+    "main.css": "/libraryManagement/static/css/main.abd20d59.css",
+    "main.js": "/libraryManagement/static/js/main.2debe2e5.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/backGround.jpg": "/libraryManagement/static/media/backGround.c14ffbb7829db7b275f9.jpg",
     "static/media/knowledgeLibLight.png": "/libraryManagement/static/media/knowledgeLibLight.666e9ac05ad01c5e07b4.png",
+    "static/media/telescope.png": "/libraryManagement/static/media/telescope.dffea9804755d39f28d1.png",
     "static/media/knowledgeLibDark.png": "/libraryManagement/static/media/knowledgeLibDark.70d09c6b5485b8f7a61a.png",
     "static/media/moon.png": "/libraryManagement/static/media/moon.d91f118702503b40d9a7.png",
     "static/media/logout.png": "/libraryManagement/static/media/logout.a7cf3408bec8b53aa303.png",
@@ -16,12 +17,12 @@
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "static/media/edit.png": "/libraryManagement/static/media/edit.5de789ef28d13ef0b6ba.png",
     "index.html": "/libraryManagement/index.html",
-    "main.84e7b5f1.css.map": "/libraryManagement/static/css/main.84e7b5f1.css.map",
-    "main.ae0e58d6.js.map": "/libraryManagement/static/js/main.ae0e58d6.js.map",
+    "main.abd20d59.css.map": "/libraryManagement/static/css/main.abd20d59.css.map",
+    "main.2debe2e5.js.map": "/libraryManagement/static/js/main.2debe2e5.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84e7b5f1.css",
-    "static/js/main.ae0e58d6.js"
+    "static/css/main.abd20d59.css",
+    "static/js/main.2debe2e5.js"
   ]
 }
