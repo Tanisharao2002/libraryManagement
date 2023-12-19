@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.d1e60c3d.css",
-    "main.js": "/libraryManagement/static/js/main.66f0dbd5.js",
+    "main.css": "/libraryManagement/static/css/main.4fcaac78.css",
+    "main.js": "/libraryManagement/static/js/main.324f49e2.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/backGround.jpg": "/libraryManagement/static/media/backGround.c14ffbb7829db7b275f9.jpg",
     "static/media/lib.jpg": "/libraryManagement/static/media/lib.3469008033dfed169681.jpg",
@@ -19,12 +19,12 @@
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "static/media/edit.png": "/libraryManagement/static/media/edit.5de789ef28d13ef0b6ba.png",
     "index.html": "/libraryManagement/index.html",
-    "main.d1e60c3d.css.map": "/libraryManagement/static/css/main.d1e60c3d.css.map",
-    "main.66f0dbd5.js.map": "/libraryManagement/static/js/main.66f0dbd5.js.map",
+    "main.4fcaac78.css.map": "/libraryManagement/static/css/main.4fcaac78.css.map",
+    "main.324f49e2.js.map": "/libraryManagement/static/js/main.324f49e2.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1e60c3d.css",
-    "static/js/main.66f0dbd5.js"
+    "static/css/main.4fcaac78.css",
+    "static/js/main.324f49e2.js"
   ]
 }
