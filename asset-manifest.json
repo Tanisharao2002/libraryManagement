@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.aca2daf5.css",
+    "main.css": "/libraryManagement/static/css/main.964613a1.css",
     "main.js": "/libraryManagement/static/js/main.6fff0cca.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/backGround.jpg": "/libraryManagement/static/media/backGround.c14ffbb7829db7b275f9.jpg",
     "static/media/lib.jpg": "/libraryManagement/static/media/lib.3469008033dfed169681.jpg",
     "static/media/knowledgeLibLight.png": "/libraryManagement/static/media/knowledgeLibLight.666e9ac05ad01c5e07b4.png",
-    "static/media/telescope.png": "/libraryManagement/static/media/telescope.dffea9804755d39f28d1.png",
     "static/media/knowledgeLibDark.png": "/libraryManagement/static/media/knowledgeLibDark.70d09c6b5485b8f7a61a.png",
     "static/media/moon.png": "/libraryManagement/static/media/moon.d91f118702503b40d9a7.png",
+    "static/media/hi.png": "/libraryManagement/static/media/hi.aafe6dfd551342740988.png",
     "static/media/logout.png": "/libraryManagement/static/media/logout.a7cf3408bec8b53aa303.png",
     "static/media/addBook.png": "/libraryManagement/static/media/addBook.011ec3b780e15c20c3cc.png",
     "static/media/sun.png": "/libraryManagement/static/media/sun.09b1546a421326832a9c.png",
@@ -18,12 +18,12 @@
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "static/media/edit.png": "/libraryManagement/static/media/edit.5de789ef28d13ef0b6ba.png",
     "index.html": "/libraryManagement/index.html",
-    "main.aca2daf5.css.map": "/libraryManagement/static/css/main.aca2daf5.css.map",
+    "main.964613a1.css.map": "/libraryManagement/static/css/main.964613a1.css.map",
     "main.6fff0cca.js.map": "/libraryManagement/static/js/main.6fff0cca.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aca2daf5.css",
+    "static/css/main.964613a1.css",
     "static/js/main.6fff0cca.js"
   ]
 }
