@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/libraryManagement/static/css/main.0439c6f0.css",
+    "main.css": "/libraryManagement/static/css/main.87e2fa3b.css",
     "main.js": "/libraryManagement/static/js/main.af0a8c2b.js",
     "static/js/787.dce471fc.chunk.js": "/libraryManagement/static/js/787.dce471fc.chunk.js",
     "static/media/backGround.jpg": "/libraryManagement/static/media/backGround.c14ffbb7829db7b275f9.jpg",
@@ -19,12 +19,12 @@
     "static/media/close.png": "/libraryManagement/static/media/close.bce59ddf2b4b4eb6d77b.png",
     "static/media/redHeart.png": "/libraryManagement/static/media/redHeart.556c78a5a9b89d6b2eeb.png",
     "index.html": "/libraryManagement/index.html",
-    "main.0439c6f0.css.map": "/libraryManagement/static/css/main.0439c6f0.css.map",
+    "main.87e2fa3b.css.map": "/libraryManagement/static/css/main.87e2fa3b.css.map",
     "main.af0a8c2b.js.map": "/libraryManagement/static/js/main.af0a8c2b.js.map",
     "787.dce471fc.chunk.js.map": "/libraryManagement/static/js/787.dce471fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0439c6f0.css",
+    "static/css/main.87e2fa3b.css",
     "static/js/main.af0a8c2b.js"
   ]
 }
